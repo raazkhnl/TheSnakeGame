@@ -16,7 +16,7 @@ Think Snake, but better. One or two players steer colorful snakes (green and ora
 
 ## How to Get Started
 1. **Play from the hosted page**:
-   - Find a page to the hosted game on sidebar and enjoy ther game. 
+   - Find a page to the hosted game(https://raazkhnl.github.io/TheSnakeGame/) on sidebar and enjoy ther game. 
 2. **Grab the Game**: 
    - Clone it: `git clone https://github.com/raazkhnl/TheSnakeGame.git`
    - Or download and unzip the files.
